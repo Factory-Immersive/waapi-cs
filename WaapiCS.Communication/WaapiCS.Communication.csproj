@@ -33,13 +33,13 @@
     <PackageReference Include="System.Reactive.Windows.Threading" Version="3.0.0" />
     <PackageReference Include="System.Threading.Tasks.Dataflow" Version="9.0.15" />
     <PackageReference Include="WampSharp" Version="23.8.1" />
-    <PackageReference Include="WampSharp.Default" Version="18.5.1" />
-    <PackageReference Include="WampSharp.Default.Client" Version="18.5.1" />
+    <PackageReference Include="WampSharp.Default" Version="23.8.1" />
+    <PackageReference Include="WampSharp.Default.Client" Version="23.8.1" />
     <PackageReference Include="WampSharp.Default.Router" Version="23.8.1" />
     <PackageReference Include="WampSharp.Fleck" Version="23.8.1" />
     <PackageReference Include="WampSharp.NewtonsoftJson" Version="23.8.1" />
-    <PackageReference Include="WampSharp.NewtonsoftMsgpack" Version="18.5.1" />
-    <PackageReference Include="WampSharp.WebSocket4Net" Version="18.5.1" />
+    <PackageReference Include="WampSharp.NewtonsoftMsgpack" Version="23.8.1" />
+    <PackageReference Include="WampSharp.WebSocket4Net" Version="23.8.1" />
     <PackageReference Include="WebSocket4Net" Version="0.15.2" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="10.0.6" />
   </ItemGroup>
