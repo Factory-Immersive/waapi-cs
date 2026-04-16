@@ -21,7 +21,7 @@
     <PackageReference Include="Microsoft.Web.Infrastructure" Version="2.0.0" />
     <PackageReference Include="MsgPack.Cli" Version="1.0.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
-    <PackageReference Include="Newtonsoft.Msgpack" Version="0.1.10" />
+    <PackageReference Include="Newtonsoft.Msgpack" Version="0.1.11" />
     <PackageReference Include="SuperSocket.ClientEngine.Core" Version="0.10.0" />
     <PackageReference Include="System.Collections.Immutable" Version="9.0.15" />
     <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
